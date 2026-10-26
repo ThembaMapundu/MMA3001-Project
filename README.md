@@ -24,13 +24,21 @@ The cleaned CO₂ dataset contains 42,843 valid, unique sensor–timestamp obser
 Repository structure
 .
 ├── README.md
+
 ├── SourceData/
-│   └── co2_clean.xlsx            
+
+│   └── co2_clean.xlsx     
+
 ├── notebooks/
+
 │   ├── 01_Data_Exploration.ipynb
+
 │   ├── 02_Sensor_Selection.ipynb
+
 │   ├── 03_Interpolation.ipynb
+
 │   └── 04_Validation.ipynb
+
 
 
 Reproducibility and documentation
